@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+html, body, #app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #111b21;
+  color: #e9edef;
+  font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
